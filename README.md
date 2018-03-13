@@ -1,4 +1,4 @@
-word1                  word2 : multiple spaces => 1space
+word1                  word2 : multiple spaces => 1space<br/>
 word1 &nbsp;&nbsp;&nbsp;&nbsp; : `&nbsp;` => 1space(when want to use multiple spaces)
 
 
@@ -27,3 +27,5 @@ line4 : 1 enter => nothing, multiple enter => 단락 바뀜
 - my
 - name
 - is
+
+``를 쓰면 안의 내용물은 마크다운 적용 안됨
