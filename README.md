@@ -13,3 +13,9 @@ line4 : 1 enter => nothing, multiple enter => 단락 바뀜
 #### head4
 ##### head5 
 ###### head6
+
+# 순서있는 목록
+1. a
+2. b
+3. c
+2. a
