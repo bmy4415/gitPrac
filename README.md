@@ -29,8 +29,8 @@ line4 : 1 enter => nothing, multiple enter => 단락 바뀜
 - is
 
 ``를 쓰면 안의 내용물은 마크다운 적용 안됨<br/>
-` ``` `을 시작과 끝에 감싸면 multiline 주석<br/>
-&```javascript  처럼 언어 명시해주면 언어로 코드도 됨 심지어!
+\```을 시작과 끝에 감싸면 multiline 주석<br/>
+\```javascript  처럼 언어 명시해주면 언어로 코드도 됨 심지어!
 ```
 <br/>
 # head1
