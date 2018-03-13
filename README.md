@@ -36,6 +36,9 @@ line4 : 1 enter => nothing, multiple enter => 단락 바뀜
 # head1
 ```
 
-```java
+```javascript
 var a = 3;
-```
+```<br/>
+space4칸도 물론 잘됨
+	#include<stdio.h>
+
