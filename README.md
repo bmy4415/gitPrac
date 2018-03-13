@@ -1,4 +1,7 @@
 word1                  word2 : multiple spaces => 1space
+word1 &nbsp;&nbsp;&nbsp;&nbsp; : `&nbsp;` => 1space(when want to use multiple spaces)
+
+
 
 line1<br/>
 line2 : `<br/>` => enter
