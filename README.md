@@ -67,6 +67,7 @@ space4칸도 물론 잘됨, tab으로도 잘됨, 코드작성후 전체를 tab�
 [naver](www.naver.com) <br/>
 
 마지막은 표인데 표야 좀 되라... <br/>
-
-col1 | col2 | col3
+col1                    | col2                |               co  l3 
 --- | --- | ---
+va1 | val2 | val3
+2val1 | 2vl2a323eseas43 | 2vlasdklr4j
