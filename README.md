@@ -35,6 +35,6 @@ line4 : 1 enter => nothing, multiple enter => 단락 바뀜
 # head1
 ```
 
-```javascript
+```java
 var a = 3;
 ```
