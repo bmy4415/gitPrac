@@ -29,7 +29,7 @@ line4 : 1 enter => nothing, multiple enter => 단락 바뀜
 - is
 
 ``를 쓰면 안의 내용물은 마크다운 적용 안됨<br/>
-`````을 쓰면 multiline 주석
+` ``` `을 쓰면 multiline 주석
 ```
 <br/>
 # head1
