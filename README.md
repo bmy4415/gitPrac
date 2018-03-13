@@ -1,4 +1,8 @@
-line1<br/>
-line2
+word1                  word2 : multiple spaces => 1space
 
-line3
+line1<br/>
+line2 : `<br/>` => enter
+
+
+
+line4
